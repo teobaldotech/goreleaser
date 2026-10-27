@@ -13,7 +13,7 @@
 
 ---
 
-We handle the complexities of releasing so you can focus in building what really
+We handle the complexities of releasing so you can focus on building what really
 matters: **your software**.
 
 ![](https://goreleaser.com/static/goreleaser.svg)
@@ -22,18 +22,18 @@ matters: **your software**.
 
 ## Get GoReleaser
 
-- [On your machine](https://goreleaser.com/install/);
-- [On CI/CD systems](https://goreleaser.com/ci/).
+- [On your machine](https://goreleaser.com/install/)
+- [On CI/CD systems](https://goreleaser.com/ci/)
 
 ## Documentation
 
-Documentation is hosted live at https://goreleaser.com
+Documentation is hosted live at [goreleaser.com](https://goreleaser.com).
 
 ## Community
 
-You have questions, need support and or just want to talk about GoReleaser?
+Do you have questions, need support, or just want to talk about GoReleaser?
 
-Here are ways to get in touch with the GoReleaser community:
+Here are the ways to get in touch with the GoReleaser community:
 
 [![Follow on 𝕏](https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/goreleaser)
 [![Follow Telegram Channel](https://img.shields.io/badge/Follow_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/goreleasernews)
@@ -56,7 +56,7 @@ Please refer to our [contributing guidelines](CONTRIBUTING.md) for further infor
 [![Codecov branch](https://img.shields.io/codecov/c/github/goreleaser/goreleaser/main.svg?style=for-the-badge)](https://codecov.io/gh/goreleaser/goreleaser)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/goreleaser&style=for-the-badge)](https://artifacthub.io/packages/search?repo=goreleaser)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=for-the-badge)](http://godoc.org/github.com/goreleaser/goreleaser)
-[![Powered By: GoReleaser](https://img.shields.io/badge/powered%20by-goreleaser-green.svg?style=for-the-badge)](https://github.com/goreleaser)
+[![Powered By: GoReleaser](https://img.shields.io/badge/powered%20by-goreleaser-green.svg?style=for-the-badge)](https://goreleaser.com)
 [![Backers on Open Collective](https://opencollective.com/goreleaser/backers/badge.svg?style=for-the-badge)](https://opencollective.com/goreleaser/backers/)
 [![Sponsors on Open Collective](https://opencollective.com/goreleaser/sponsors/badge.svg?style=for-the-badge)](https://opencollective.com/goreleaser/sponsors/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge)](https://conventionalcommits.org)
@@ -70,9 +70,9 @@ This project exists thanks to all the people who contribute.
 
 ## Sponsoring
 
-Does you or your company use GoReleaser?
+Do you or your company use GoReleaser?
 
-You can help keep the project bug-free and feature rich by sponsoring the
+You can help keep the project bug-free and feature-rich by sponsoring the
 project and its maintainers.
 
 You can sponsor GoReleaser via:
